@@ -1,0 +1,11 @@
+<!DOCTYPE mapper  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.ln.dao.UserDao">
+	<!-- Map -->
+	<resultMap id="finduser" type="User">
+	   <id property="id" column="id"/>
+	</resultMap>
+    <!-- select -->
+	<select id="findList" resultMap="finduser">
+	     select * from User
+	</select>
+</mapper>
