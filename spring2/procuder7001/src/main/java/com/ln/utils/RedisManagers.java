@@ -3,8 +3,10 @@ package com.ln.utils;
 import org.crazycake.shiro.IRedisManager;
 import org.crazycake.shiro.WorkAloneRedisManager;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Primary;
+import org.springframework.data.redis.connection.RedisConnectionFactory;
 import org.springframework.stereotype.Component;
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
@@ -17,26 +19,49 @@ import redis.clients.jedis.JedisPoolConfig;
  **/
 @Primary
 @Component
-@ConfigurationProperties(prefix = "spring.redis")
+@ConfigurationProperties(prefix = "")
 public class RedisManagers  extends WorkAloneRedisManager implements IRedisManager {
     private static final String DEFAULT_HOST = "127.0.0.1:6379";
+    @Value("${spring.redis.host}")
     private String host;
+    @Value("${spring.redis.port}")
     private  int port;
+    @Value("${spring.redis.timeout}")
     private int timeout;
+    //@Value("")
     private String password;
+    @Value("${spring.redis.database}")
     private int database;
+    @Value("${spring.redis.lettuce.pool.max-wait}")
+    private  int wait;
+    @Value("${spring.redis.lettuce.pool.min-idle}")
+    private  int minIdle;
+    @Value("${spring.redis.jedis.pool.max-idle}")
+    private  int maxIdle;
+    @Value("${spring.redis.jedis.pool.max-active}")
+    private  int maxActive;
     private JedisPool jedisPool;
+
+    public JedisPoolConfig getJedisPoolConfigs(){
+        JedisPoolConfig config = new JedisPoolConfig();
+        config.setMaxTotal(maxActive);
+        config.setMaxWaitMillis(wait);
+        config.setMinIdle(minIdle);
+        config.setMaxIdle(maxIdle);
+        return  config;
+    }
 
 
 
     public RedisManagers() {
+
     }
 
     public void init() {
         synchronized(this) {
             if (this.jedisPool == null) {
                 //String[] hostAndPort = this.host.split(":");
-                this.jedisPool = new JedisPool(this.getJedisPoolConfig(), this.host, this.port, this.timeout, this.password, this.database);
+                this.jedisPool = new JedisPool(this.getJedisPoolConfigs(), this.host, this.port, this.timeout, this.password, this.database);
             }
 
         }
@@ -92,6 +117,38 @@ public class RedisManagers  extends WorkAloneRedisManager implements IRedisManag
 
     public int getPort() {
         return port;
+    }
+
+    public int getWait() {
+        return wait;
+    }
+
+    public void setWait(int wait) {
+        this.wait = wait;
+    }
+
+    public int getMinIdle() {
+        return minIdle;
+    }
+
+    public void setMinIdle(int minIdle) {
+        this.minIdle = minIdle;
+    }
+
+    public int getMaxIdle() {
+        return maxIdle;
+    }
+
+    public void setMaxIdle(int maxIdle) {
+        this.maxIdle = maxIdle;
+    }
+
+    public int getMaxActive() {
+        return maxActive;
+    }
+
+    public void setMaxActive(int maxActive) {
+        this.maxActive = maxActive;
     }
 
     public void setPort(int port) {

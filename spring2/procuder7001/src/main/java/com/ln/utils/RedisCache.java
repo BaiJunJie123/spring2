@@ -5,6 +5,7 @@ import org.apache.shiro.cache.CacheException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.util.CollectionUtils;
+import redis.clients.jedis.JedisPoolConfig;
 
 import javax.swing.border.EtchedBorder;
 import java.util.*;
@@ -27,23 +28,25 @@ public class RedisCache<K,V> implements Cache<K,V> {
      * @return
      */
     private byte[] getByteKey(K key){
-        if(key instanceof String){
+       /* if(key instanceof String){
             String preKey = this.keyPrefix + key;
             return preKey.getBytes();
-        }else{
-            return SerializeUtils.serialize(key);
-        }
+        }else{*/
+            //System.out.println(key+"---------------------------key-----------");
+           // return SerializeUtils.serialize(key);
+       // }
+        String preKey = this.keyPrefix + key;
+        return preKey.getBytes();
     }
     @Override
     public V get(K k) throws CacheException {
         System.out.println("根据key从redis中获取对象");
+        JedisPoolConfig cc = cache.getJedisPoolConfigs();
         try {
             if(k == null){
                 return  null;
             }else{
                 byte[] rawValue = cache.get(getByteKey(k));
-                System.out.println(new String(rawValue)+"=============rawValue==============");
-                System.out.println(new String(getByteKey(k))+"=============getByteKey(k)==============");
                 @SuppressWarnings("unchecked")
                 V value = (V)SerializeUtils.unserialize(rawValue);
                 return  value;
@@ -59,7 +62,7 @@ public class RedisCache<K,V> implements Cache<K,V> {
     @Override
     public V put(K k, V v) throws CacheException {
         try {
-            System.out.println("根据key来存储");
+            System.out.println("根据key来存储======="+k.toString());
             cache.set(getByteKey(k),SerializeUtils.serialize(v),cache.getTimeout()*100);
             return  v;
         }catch (Exception e){

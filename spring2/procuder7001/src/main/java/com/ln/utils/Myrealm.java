@@ -33,7 +33,9 @@ public class Myrealm extends AuthorizingRealm {
 
     @Override
     protected AuthorizationInfo doGetAuthorizationInfo(PrincipalCollection principalCollection) {
-      System.out.println("=============进入权限========");
+      String ss =principalCollection.getPrimaryPrincipal().toString();
+      String zz = principalCollection.getRealmNames().toString();
+      System.out.println(zz+"=============进入权限========"+ss);
       //通过CacheManager获取Cache
       //String userName = (String) principalCollection.getPrimaryPrincipal();
       SimpleAuthorizationInfo sim = new SimpleAuthorizationInfo();
@@ -51,7 +53,7 @@ public class Myrealm extends AuthorizingRealm {
     protected AuthenticationInfo doGetAuthenticationInfo(AuthenticationToken authenticationToken) throws AuthenticationException {
       String name =  authenticationToken.getPrincipal().toString();
       String pass = map.get(name);
-        SimpleAuthenticationInfo info = new SimpleAuthenticationInfo(authenticationToken,pass,"OK");
+        SimpleAuthenticationInfo info = new SimpleAuthenticationInfo(name,pass,null,"OK");
 
         return info;
     }
