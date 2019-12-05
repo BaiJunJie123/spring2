@@ -17,7 +17,9 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import serverCloudApi.entitys.User;
 
+import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 
@@ -46,10 +48,12 @@ public class UserControler {
 		UsernamePasswordToken token = new UsernamePasswordToken();
 		token.setUsername(name);
 		token.setPassword(pass.toCharArray());
+		token.setRememberMe(true);
 		Subject subject= SecurityUtils.getSubject();
+		//subject.getSession();
 		subject.login(token);
 
-		boolean d =	subject.hasRole("admin");
+		//boolean d =	subject.hasRole("admin");
 		return "hello";
 	}
 	@RequestMapping("yidenglu")
@@ -63,7 +67,7 @@ public class UserControler {
 	}
 
 	@RequestMapping("/userLogin")
-	public String logins(HttpServletRequest request){
+	public String logins(HttpServletRequest request, HttpServletResponse response){
 		HttpSession session = request.getSession();
 		session.setAttribute("ce", "ok");
 
