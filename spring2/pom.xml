@@ -19,6 +19,9 @@
         <module>zuuleServer5001</module>
         <module>feignserver6002</module>
         <module>zuuleServer5002</module>
+        <module>quartz3001</module>
+        <module>quartz3002</module>
+        <module>quartz3003</module>
     </modules>
     <properties>
         <properties.build.sourceEncoding>UTF-8</properties.build.sourceEncoding>
@@ -83,20 +86,6 @@
         </dependencies>
     </dependencyManagement>
     <dependencies>
-<!--        &lt;!&ndash; eureka 权限验证 &ndash;&gt;
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-security</artifactId>
-        </dependency>-->
-       <!-- <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
-        </dependency>-->
-<!--
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-devtools</artifactId>
-        </dependency>-->
     </dependencies>
 
 
