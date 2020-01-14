@@ -3,6 +3,7 @@ package com.ln.config;
 import com.ln.utils.Jianting;
 import com.ln.utils.Myjob2;
 import org.quartz.JobDetail;
+import org.quartz.SchedulerException;
 import org.quartz.SchedulerListener;
 import org.quartz.TriggerListener;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -72,7 +73,7 @@ public class QuartzConfig {
         //将spring管理job自定义工厂交由调度器维护
         bean.setJobFactory(autowiringSpringBeanJobFactory);
         //设置调度器自动运行
-        bean.setAutoStartup(true);
+        bean.setAutoStartup(false);
         //设置定时调度器命名空间  （集群名）
       //  bean.setSchedulerName("MY-QUARTZ-SCHEDULER");
         //设置存储在quartz上文中的Spring应用上下文key

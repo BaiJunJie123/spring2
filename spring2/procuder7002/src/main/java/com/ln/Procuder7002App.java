@@ -4,7 +4,6 @@ import com.ln.configUtils.RedisConfig;
 import com.ln.utils.RedisManagers;
 import com.ln.utils.RedisSessionDAO;
 import org.mybatis.spring.annotation.MapperScan;
-import org.quartz.*;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

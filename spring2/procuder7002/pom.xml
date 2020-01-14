@@ -169,7 +169,7 @@
             <version>4.4.0</version>
         </dependency>
          <!--springboot 集成 quartz-->
-        <dependency>
+      <!--  <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-quartz</artifactId>
         </dependency>
@@ -178,7 +178,7 @@
             <groupId>com.mchange.c3p0</groupId>
             <artifactId>com.springsource.com.mchange.v2.c3p0</artifactId>
             <version>0.9.1</version>
-        </dependency>
+        </dependency>-->
 
        <!-- <dependency>
             <groupId>org.quartz-scheduler</groupId>

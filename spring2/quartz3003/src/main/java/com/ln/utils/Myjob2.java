@@ -24,21 +24,13 @@ public class Myjob2 extends QuartzJobBean {
 
     @Override
     protected void executeInternal(JobExecutionContext jobExecutionContext) throws JobExecutionException {
-        for(int i =0;i<10;i++){
-
-            try {
-                Thread.sleep(2000);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
-            System.out.println(i+"=====3003========okok==============");
-        }
-        if(jobExecutionContext.getJobDetail().getJobDataMap().get("count")!= null){
+            System.out.println("=====3003========okok=============="+jobExecutionContext.getJobDetail().getKey().getName());
+       /* if(jobExecutionContext.getJobDetail().getJobDataMap().get("count")!= null){
             Integer o = (Integer) jobExecutionContext.getJobDetail().getJobDataMap().get("count");
             o++;
             jobExecutionContext.getJobDetail().getJobDataMap().put("count", o);
             System.out.println("====="+o+"=========");
-        }
+        }*/
 
 
     }

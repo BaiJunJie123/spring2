@@ -1,18 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="quartz3003:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b577674-8c5b-405d-bf21-cd9d3aa1e1fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/utils/rockermqs/TransactionConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/utils/rockermqs/TransactionExecuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/utils/rockermqs/TransactionProcuder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="5b577674-8c5b-405d-bf21-cd9d3aa1e1fb" name="Default Changelist" comment="tijiao">
+      <change afterPath="$PROJECT_DIR$/web/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/demo2.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/hello.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/jobMod.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/kong.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/notfind.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/zi.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/elementUIForMod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/public/publicUrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/view/demo3.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/view/demo4.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/view/home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/vuex/model/modelA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/vuex/model/modelB.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/vuex/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/web.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka8001/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka8001/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka8001/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka8001/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka8002/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka8002/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka8002/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka8002/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/procuder7001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/procuder7001.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/Procuder7001App.java" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/Procuder7001App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/configUtils/ShiroConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/configUtils/ShiroConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/controller/UserControler.java" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/controller/UserControler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/service/Userservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/service/Userservice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/src/main/resources/mybatis/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/src/main/resources/mybatis/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/META-INF/procuder7001.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/Procuder7001App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/configUtils/DruidConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/configUtils/RedisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/configUtils/ShiroConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/controller/UserControler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/service/Userservice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Myrealm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/RedisCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/RedisCacheManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/RedisManagers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/RedisSessionDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/SerializeUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/poi/PoiUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/mybatis/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/target/classes/mybatis/mapper/UserMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/procuder7002/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7002/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/Procuder7002App.java" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/Procuder7002App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/configUtils/ShiroConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/configUtils/ShiroConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/controller/UserControler.java" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/controller/UserControler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/procuder7002/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7002/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7002/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7002/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7002/target/classes/com/ln/Procuder7002App.class" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7002/target/classes/com/ln/Procuder7002App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7002/target/classes/com/ln/configUtils/ShiroConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7002/target/classes/com/ln/configUtils/ShiroConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/utils/QuartzUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/utils/QuartzUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3003/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/Procuder3003App.java" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/Procuder3003App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/QuartzConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/QuartzConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/Myjob2.java" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/Myjob2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/QuartzUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/QuartzUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3003/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3003/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3003/target/classes/com/ln/config/QuartzConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/target/classes/com/ln/config/QuartzConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3003/target/classes/com/ln/controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/target/classes/com/ln/controller/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3003/target/classes/com/ln/utils/Myjob2.class" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/target/classes/com/ln/utils/Myjob2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3003/target/classes/com/ln/utils/QuartzUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/target/classes/com/ln/utils/QuartzUtils.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,100 +164,109 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/QuartzUtils.java">
+        <entry file="file://$PROJECT_DIR$/web/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="157" column="33" selection-start-line="157" selection-start-column="32" selection-end-line="157" selection-end-column="33" />
+            <state relative-caret-position="176">
+              <caret line="8" column="16" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/view/demo4.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="54" column="27" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="n#style#0;n#el-table#0;n#template#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quartz3002/src/main/java/com/ln/config/AutowiringSpringBeanJobFactory.java">
+        <entry file="file://$PROJECT_DIR$/web/src/components/demo2.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="792">
+              <caret line="36" column="28" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/components/HelloWorld.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-40">
+              <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/components/jobMod.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="92" column="8" lean-forward="true" selection-start-line="92" selection-start-column="8" selection-end-line="92" selection-end-column="8" />
+              <folding>
+                <element signature="n#style#0;n#el-header#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#el-dropdown#0;n#el-header#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-table#0;n#el-main#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/view/demo3.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/router/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="77" column="12" lean-forward="true" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/quartz3002/src/main/java/com/ln/config/QuartzConfig.java">
+        <entry file="file://$PROJECT_DIR$/web/src/view/home.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/impl/StdScheduler.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="239">
-              <caret line="193" column="34" lean-forward="true" selection-start-line="193" selection-start-column="34" selection-end-line="193" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/Scheduler.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="104" column="36" selection-start-line="104" selection-start-column="36" selection-end-line="104" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quartz3002/src/main/java/com/ln/Procuder3002App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/controller/TestController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="24" column="28" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="28" />
+            <state relative-caret-position="1452">
+              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quartz3002/src/main/java/com/ln/utils/QuartzUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="95" column="10" selection-start-line="95" selection-start-column="10" selection-end-line="95" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/Myjob2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/TriggerBuilder.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="24" />
-              <folding>
-                <element signature="e#714#715#0" expanded="true" />
-                <element signature="e#757#758#0" expanded="true" />
+                <element signature="n#style#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-aside#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -171,25 +281,46 @@
         <option value="FxmlFile" />
         <option value="Jsp File" />
         <option value="Class" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>getAuthorizationInfo</find>
-      <find>getAvailableAuthorizationCache</find>
-      <find>createJedis</find>
-      <find>doGetAuthenticati</find>
-      <find>doGetAuthorizationInfo</find>
-      <find>GetAuthenticatio</find>
-      <find>doGetAuthenticationInfo</find>
-      <find>getAuthenticationInfo</find>
-      <find>GetAuthenticationInfo</find>
-      <find>Token</find>
-      <find>transactionCheckListener</find>
-      <find>quartz</find>
-      <find>concurrent</find>
+      <find>numberspinner</find>
+      <find>tabs-header-plain</find>
+      <find>everyTime</find>
+      <find>#numberspinnerminList</find>
+      <find>easyui-layout</find>
+      <find>tabs-scroller-right</find>
+      <find>minList</find>
+      <find>Cron 表达式</find>
+      <find>trueUpdate</find>
+      <find>isshutDown</find>
+      <find>add()</find>
+      <find>id=&quot;btnFan&quot;</find>
+      <find>id=&quot;fade&quot;</find>
+      <find>black_overlay</find>
+      <find>fudong2</find>
+      <find>b-1</find>
+      <find>close</find>
+      <find>addjobs-1</find>
+      <find>span1</find>
+      <find>close2</find>
+      <find>qidong()</find>
+      <find>stop()</find>
+      <find>addJob()</find>
+      <find>updates</find>
+      <find>btnFan</find>
+      <find>findInfo</find>
+      <find>tomcat</find>
+      <find>module</find>
+      <find>smtd</find>
+      <find>geturl</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -197,57 +328,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/configUtils/SchedulerFactoryBeans.java" />
-        <option value="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/utils/QuartzUtils/Myjob.java" />
-        <option value="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/utils/QuartzUtils/Myjob.java" />
-        <option value="$PROJECT_DIR$/quartz3001/src/main/java/Procuder3001App.java" />
-        <option value="$PROJECT_DIR$/quartz3001/src/main/java/com/ln/Procuder7001App.java" />
-        <option value="$PROJECT_DIR$/eureka8003/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/eureka8001/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/eureka8002/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/quartz3001/src/main/java/com/ln/conf/QuartzSz.java" />
-        <option value="$PROJECT_DIR$/quartz3001/src/main/java/com/ln/conf/Peizhi.java" />
-        <option value="$PROJECT_DIR$/quartz3001/src/main/java/com/ln/conf/MethodInvokingJobDetailFactoryBean.java" />
-        <option value="$PROJECT_DIR$/quartz3001/src/main/java/com/ln/conf/MethodInvokingJobDetailFactoryBeans.java" />
-        <option value="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/Procuder3001App.java" />
-        <option value="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/Procuder7002App.java" />
-        <option value="$PROJECT_DIR$/procuder7001/pom.xml" />
-        <option value="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/Procuder7001App.java" />
-        <option value="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/utils/poi/PoiUtils.java" />
-        <option value="$PROJECT_DIR$/quartz3001/pom.xml" />
-        <option value="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/utils/Myjob.java" />
-        <option value="$PROJECT_DIR$/quartz3001/src/main/java/com/ln/utils/Myjob.java" />
-        <option value="$PROJECT_DIR$/quartz3001/src/main/java/com/ln/Procuder3001App.java" />
-        <option value="$PROJECT_DIR$/quartz3001/src/main/java/com/ln/conf/QuartzConfig.java" />
-        <option value="$PROJECT_DIR$/quartz3001/src/main/java/com/ln/utils/Myjob2.java" />
-        <option value="$PROJECT_DIR$/quartz3001/src/main/java/com/ln/conf/MySchedulerFactoryBean.java" />
-        <option value="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/config/MySchedulerFactoryBean.java" />
-        <option value="$PROJECT_DIR$/quartz3002/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/quartz3001/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/quartz3002/src/main/resources/quartz.properties" />
-        <option value="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/config/AutowiringSpringBeanJobFactory.java" />
-        <option value="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/Procuder3002App.java" />
-        <option value="$PROJECT_DIR$/quartz3002/pom.xml" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/Procuder3002App.java" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/AutowiringSpringBeanJobFactory.java" />
-        <option value="$PROJECT_DIR$/procuder7002/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/procuder7001/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/utils/Myjob2.java" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/CronUtils.java" />
-        <option value="$PROJECT_DIR$/quartz3003/pom.xml" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/resources/mybatis/mapper/UserMapper.xml" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/Jianting.java" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/Jobjianting.java" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/Start.java" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/Procuder3003App.java" />
-        <option value="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/QuartzConfig.java" />
-        <option value="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/config/QuartzConfig.java" />
-        <option value="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/utils/QuartzUtils.java" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/WebMvcConfig.java" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/webapp/static/js/addons/rating.js" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/entity/SchedulingJob.java" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/webapp/static/css2/style.css" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/Job3.java" />
         <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/QuartzUtils.java" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/Myjob2.java" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/QuartzConfig.java" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/webapp/WEB-INF/view/index.jsp" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/webapp/WEB-INF/view/newJob.jsp" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/webapp/static/Cron/themes/bootstrap/easyui.css" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/webapp/static/Cron/themes/bootstrap/easyui.min.css" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/Ce.java" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/webapp/WEB-INF/view/hello.jsp" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/Procuder3003App.java" />
+        <option value="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/Procuder7001App.java" />
+        <option value="$PROJECT_DIR$/procuder7001/pom.xml" />
+        <option value="$PROJECT_DIR$/quartz3003/META-INF/resources/WEB-INF/view/hello.jsp" />
+        <option value="$PROJECT_DIR$/procuder7001/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/controller/UserControler.java" />
+        <option value="$PROJECT_DIR$/procuder7002/pom.xml" />
+        <option value="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/controller/UserControler.java" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/resources/application.properties" />
+        <option value="$MAVEN_REPOSITORY$/javax/servlet/jstl/1.2/jstl-1.2.pom" />
+        <option value="$PROJECT_DIR$/web/build/webpack.base.conf.js" />
+        <option value="$PROJECT_DIR$/web/src/view/login.vue" />
+        <option value="$PROJECT_DIR$/web/src/assets/js/first.js" />
+        <option value="$PROJECT_DIR$/web/src/components/text.vue" />
+        <option value="$PROJECT_DIR$/web/src/components/demo2.vue" />
+        <option value="$PROJECT_DIR$/web/src/components/hello.vue" />
+        <option value="$PROJECT_DIR$/web/src/components/zi.vue" />
+        <option value="$PROJECT_DIR$/web/src/components/notfind.vue" />
+        <option value="$PROJECT_DIR$/web/src/vuex/model/modelB.js" />
+        <option value="$PROJECT_DIR$/web/src/vuex/model/modelA.js" />
+        <option value="$PROJECT_DIR$/web/src/vuex/store.js" />
+        <option value="$PROJECT_DIR$/web/src/view/demo3.vue" />
+        <option value="$PROJECT_DIR$/web/src/elementModel.js" />
+        <option value="$PROJECT_DIR$/quartz3003/pom.xml" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/web/config/index.js" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/WebConfiguration.java" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/ProcessInterceptor.java" />
+        <option value="$PROJECT_DIR$/web/src/view/demo4.vue" />
+        <option value="$PROJECT_DIR$/web/.babelrc" />
+        <option value="$PROJECT_DIR$/web/src/elementUIForMod.js" />
+        <option value="$PROJECT_DIR$/web/src/App.vue" />
+        <option value="$PROJECT_DIR$/web/src/components/kong.vue" />
+        <option value="$PROJECT_DIR$/web/src/router/index.js" />
+        <option value="$PROJECT_DIR$/web/src/view/home.vue" />
+        <option value="$PROJECT_DIR$/web/src/public/publicUrl.js" />
+        <option value="$PROJECT_DIR$/web/src/main.js" />
+        <option value="$PROJECT_DIR$/web/src/components/jobMod.vue" />
       </list>
     </option>
   </component>
@@ -277,22 +408,22 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="procuder7001" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="quartz3003" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="procuder7001" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="quartz3003" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="378" />
-    <option name="y" value="415" />
-    <option name="width" value="1440" />
-    <option name="height" value="757" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="129" />
+    <option name="y" value="123" />
+    <option name="width" value="1675" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -302,7 +433,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -314,117 +444,13 @@
             <path>
               <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring2" type="462c0819:PsiDirectoryNode" />
-              <item name="quartz3002" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring2" type="462c0819:PsiDirectoryNode" />
-              <item name="quartz3002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring2" type="462c0819:PsiDirectoryNode" />
-              <item name="quartz3002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring2" type="462c0819:PsiDirectoryNode" />
-              <item name="quartz3002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring2" type="462c0819:PsiDirectoryNode" />
-              <item name="quartz3002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ln" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring2" type="462c0819:PsiDirectoryNode" />
-              <item name="quartz3002" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ln" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring2" type="462c0819:PsiDirectoryNode" />
-              <item name="quartz3003" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring2" type="462c0819:PsiDirectoryNode" />
-              <item name="quartz3003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring2" type="462c0819:PsiDirectoryNode" />
-              <item name="quartz3003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring2" type="462c0819:PsiDirectoryNode" />
-              <item name="quartz3003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring2" type="462c0819:PsiDirectoryNode" />
-              <item name="quartz3003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ln" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring2" type="462c0819:PsiDirectoryNode" />
-              <item name="quartz3003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ln" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring2" type="462c0819:PsiDirectoryNode" />
-              <item name="quartz3003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ln" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring2" type="462c0819:PsiDirectoryNode" />
-              <item name="quartz3003" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ln" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -436,13 +462,16 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/config" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/quartz3003/target/quartz3003-1.0-SNAPSHOT.jar!/" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -450,9 +479,17 @@
     <property name="project.structure.proportion" value="0.15410726" />
     <property name="project.structure.side.proportion" value="0.44783306" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="ts.external.directory.path" value="C:\idea\IntelliJ IDEA 2019.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEACangKu\2\spring2\procuder7001\src\main\resources\lib" />
+      <recent name="E:\IDEACangKu\2\spring2\quartz3003\src\main\webapp" />
+      <recent name="E:\IDEACangKu\2\spring2\quartz3003\META-INF\resources" />
+      <recent name="E:\IDEACangKu\2\spring2\quartz3003\src\main\resources\META-INF\resources" />
+      <recent name="E:\IDEACangKu\2\spring2\quartz3003\src\main\webapp\static\Cron\themes\bootstrap" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ln.utils" />
       <recent name="com.ln.controller" />
@@ -460,12 +497,8 @@
       <recent name="" />
       <recent name="com.ln.configUtils" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\IDEACangKu\2\spring2\quartz3002\src\main\java\com\ln\config" />
-      <recent name="E:\IDEACangKu\2\spring2\quartz3003\src\main\java\com\ln\config" />
-      <recent name="E:\IDEACangKu\2\spring2\quartz3002\src\main\java\com\ln\utils" />
-      <recent name="E:\IDEACangKu\2\spring2\quartz3003\src\main\resources" />
-      <recent name="E:\IDEACangKu\2\spring2\quartz3003\src\main\java\com\ln" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEACangKu\2\spring2\quartz3003\src\main\webapp\META-INF\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -481,8 +514,8 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.Procuder3003App">
-    <configuration name="QuartzUtils.deleteJob" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="quartz3002" />
+    <configuration name="Ce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="quartz3003" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.ln.utils.*" />
@@ -490,8 +523,23 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.ln.utils" />
-      <option name="MAIN_CLASS_NAME" value="com.ln.utils.QuartzUtils" />
-      <option name="METHOD_NAME" value="deleteJob" />
+      <option name="MAIN_CLASS_NAME" value="com.ln.utils.Ce" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ce.start" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="quartz3003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ln.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ln.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.ln.utils.Ce" />
+      <option name="METHOD_NAME" value="start" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -538,19 +586,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Procuder3001App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="quartz3001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ln.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ln.Procuder3001App" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Procuder3002App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="quartz3002" />
       <extension name="coverage">
@@ -573,6 +608,8 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ln.Procuder3003App" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_WORKING_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -580,6 +617,8 @@
     <configuration name="Procuder7001App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="procuder7001" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ln.Procuder7001App" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_WORKING_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -592,7 +631,9 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.QuartzUtils.deleteJob" />
+      <item itemvalue="JUnit.Ce.start" />
+      <item itemvalue="JUnit.Ce" />
+      <item itemvalue="Node.js.bin\www" />
       <item itemvalue="Spring Boot.Eureka8001" />
       <item itemvalue="Spring Boot.Eureka8002" />
       <item itemvalue="Spring Boot.FeignApp2" />
@@ -600,17 +641,16 @@
       <item itemvalue="Spring Boot.Procuder7002App" />
       <item itemvalue="Spring Boot.Procuder7001App" />
       <item itemvalue="Spring Boot.Eureka8003" />
-      <item itemvalue="Spring Boot.Procuder3001App" />
       <item itemvalue="Spring Boot.Procuder3002App" />
       <item itemvalue="Spring Boot.Procuder3003App" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.Procuder3003App" />
-        <item itemvalue="Spring Boot.Procuder3002App" />
+        <item itemvalue="JUnit.Ce.start" />
+        <item itemvalue="JUnit.Ce" />
         <item itemvalue="Spring Boot.Eureka8003" />
-        <item itemvalue="JUnit.QuartzUtils.deleteJob" />
-        <item itemvalue="Spring Boot.Procuder3001App" />
+        <item itemvalue="Spring Boot.Procuder3002App" />
       </list>
     </recent_temporary>
   </component>
@@ -641,7 +681,52 @@
       <workItem from="1575250406695" duration="45103000" />
       <workItem from="1575333414760" duration="23058000" />
       <workItem from="1575420217222" duration="34211000" />
-      <workItem from="1575505747037" duration="9434000" />
+      <workItem from="1575505747037" duration="21772000" />
+      <workItem from="1575592742044" duration="7306000" />
+      <workItem from="1575812264385" duration="17089000" />
+      <workItem from="1575852726345" duration="24800000" />
+      <workItem from="1575938938429" duration="11836000" />
+      <workItem from="1576025752691" duration="7484000" />
+      <workItem from="1576050416882" duration="1991000" />
+      <workItem from="1576111296590" duration="2637000" />
+      <workItem from="1576127985050" duration="1562000" />
+      <workItem from="1576197662272" duration="2766000" />
+      <workItem from="1576456644638" duration="5791000" />
+      <workItem from="1576542302907" duration="7180000" />
+      <workItem from="1576630200897" duration="4559000" />
+      <workItem from="1576716342161" duration="4368000" />
+      <workItem from="1576802757525" duration="3907000" />
+      <workItem from="1577075684087" duration="1865000" />
+      <workItem from="1577147792236" duration="1114000" />
+      <workItem from="1577165607100" duration="1999000" />
+      <workItem from="1577170147085" duration="165000" />
+      <workItem from="1577172013792" duration="1236000" />
+      <workItem from="1577175664820" duration="316000" />
+      <workItem from="1577176500451" duration="16000" />
+      <workItem from="1577177319549" duration="128000" />
+      <workItem from="1577177851494" duration="61000" />
+      <workItem from="1577178054703" duration="5282000" />
+      <workItem from="1577234670789" duration="18427000" />
+      <workItem from="1577321524071" duration="36395000" />
+      <workItem from="1577408050364" duration="22176000" />
+      <workItem from="1577680402406" duration="13103000" />
+      <workItem from="1577751916646" duration="6260000" />
+      <workItem from="1577877231038" duration="2259000" />
+      <workItem from="1577926979488" duration="5881000" />
+      <workItem from="1577947925793" duration="5683000" />
+      <workItem from="1578011754332" duration="15642000" />
+      <workItem from="1578226027053" duration="10602000" />
+      <workItem from="1578271639364" duration="16967000" />
+      <workItem from="1578358329531" duration="14342000" />
+      <workItem from="1578470732919" duration="461000" />
+      <workItem from="1578471245801" duration="1218000" />
+      <workItem from="1578472666384" duration="1341000" />
+      <workItem from="1578531973317" duration="11631000" />
+      <workItem from="1578557775534" duration="10781000" />
+      <workItem from="1578617256060" duration="17003000" />
+      <workItem from="1578818846495" duration="5506000" />
+      <workItem from="1578876089765" duration="23371000" />
+      <workItem from="1578961306508" duration="20068000" />
     </task>
     <task id="LOCAL-00001" summary="tijiao">
       <created>1575516731464</created>
@@ -657,21 +742,62 @@
       <option name="project" value="LOCAL" />
       <updated>1575516851744</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="tijiao">
+      <created>1575516902958</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575516902958</updated>
+    </task>
+    <task id="LOCAL-00004" summary="tijiao">
+      <created>1575516974517</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575516974517</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="QuartzUtils_deleteJob - 2019.12.03 at 09h 32m 47s.xml">
-      <configuration name="QuartzUtils.deleteJob" configurationId="JUnit" />
+    <history-entry file="Ce_start - 2019.12.31 at 10h 37m 28s.xml">
+      <configuration name="Ce.start" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ce_start - 2019.12.31 at 10h 44m 59s.xml">
+      <configuration name="Ce.start" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ce_start - 2020.01.01 at 19h 33m 46s.xml">
+      <configuration name="Ce.start" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ce_start - 2020.01.01 at 19h 34m 19s.xml">
+      <configuration name="Ce.start" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ce_start - 2020.01.01 at 19h 38m 45s.xml">
+      <configuration name="Ce.start" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ce_start - 2020.01.01 at 19h 39m 15s.xml">
+      <configuration name="Ce.start" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ce_start - 2020.01.01 at 19h 42m 06s.xml">
+      <configuration name="Ce.start" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ce_start - 2020.01.01 at 19h 44m 06s.xml">
+      <configuration name="Ce.start" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ce_start - 2020.01.01 at 19h 46m 49s.xml">
+      <configuration name="Ce.start" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ce_start - 2020.01.01 at 19h 48m 45s.xml">
+      <configuration name="Ce.start" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="391873000" />
+    <option name="totallyTimeSpent" value="778786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993395" visible="true" weight="0.22121535" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993395" visible="true" weight="0.24253732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -680,33 +806,35 @@
       <window_info id="Favorites" order="6" sideWeight="0.5006605" side_tool="true" weight="0.21908316" />
       <window_info id="Learn" order="7" />
       <window_info id="Web" order="8" side_tool="true" />
+      <window_info id="npm" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.43600866" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3557484" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" weight="0.4934924" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29284164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.15492958" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.45878524" />
-      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" weight="0.33188722" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.45878524" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.34164858" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.2494577" />
+      <window_info anchor="bottom" id="TypeScript" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.2707889" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.16897655" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="BPMNPalette" order="6" />
-      <window_info anchor="right" id="Database" order="7" weight="0.32995737" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="Bean Validation" order="10" weight="0.32995737" />
-      <window_info anchor="right" id="CDI" order="11" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.32995737" />
+      <window_info anchor="right" id="CDI" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" weight="0.12153518" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -733,379 +861,354 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/impl/JobDetailImpl.class">
+    <entry file="file://$PROJECT_DIR$/web/src/components/text.vue" />
+    <entry file="file://$PROJECT_DIR$/web/src/view/login.vue" />
+    <entry file="file://$PROJECT_DIR$/web/.postcssrc.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/node_modules/webpack-bundle-analyzer/public/viewer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+        <state relative-caret-position="194">
+          <caret column="61541" selection-start-column="61541" selection-end-column="61541" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/JobDetail.class">
+    <entry file="file://$PROJECT_DIR$/web/src/assets/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/.editorconfig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/Trigger.class">
+    <entry file="file://$PROJECT_DIR$/web/node_modules/vuex/types/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="-2209">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/JobKey.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/spi/TriggerFiredBundle.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="158" column="51" lean-forward="true" selection-start-line="158" selection-start-column="51" selection-end-line="158" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE.jar!/org/springframework/beans/factory/config/AutowireCapableBeanFactory.class">
+    <entry file="file://$PROJECT_DIR$/web/src/vuex/model/modelB.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <caret line="14" column="4" selection-start-line="7" selection-start-column="1" selection-end-line="14" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/5.1.5.RELEASE/spring-context-support-5.1.5.RELEASE.jar!/org/springframework/scheduling/quartz/SpringBeanJobFactory.class">
+    <entry file="file://$PROJECT_DIR$/web/node_modules/element-ui/types/element-ui.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="234">
+          <caret line="177" column="13" selection-start-line="177" selection-start-column="13" selection-end-line="177" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/impl/matchers/GroupMatcher.class">
+    <entry file="file://$PROJECT_DIR$/web/node_modules/element-ui/lib/theme-chalk/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-369">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state>
+          <folding>
+            <element signature="e#175113#175252#2" expanded="true" />
+            <element signature="e#177539#177678#2" expanded="true" />
+            <element signature="e#181067#181206#2" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/eureka8001/src/main/java/com/ln/Eureka8001.java">
+    <entry file="file://$PROJECT_DIR$/web/src/elementModel.js" />
+    <entry file="file://$PROJECT_DIR$/web/node_modules/axios/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        <state relative-caret-position="1342">
+          <caret line="77" column="50" selection-start-line="77" selection-start-column="50" selection-end-line="77" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quartz3003/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="10" column="60" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="60" />
+        <state relative-caret-position="154">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/management/ObjectName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="787" column="48" selection-start-line="787" selection-start-column="48" selection-end-line="787" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="1304" column="18" selection-start-line="1304" selection-start-column="18" selection-end-line="1304" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/SchedulerListener.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/listeners/SchedulerListenerSupport.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/listeners/BroadcastSchedulerListener.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="18" column="58" lean-forward="true" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/5.1.5.RELEASE/spring-context-support-5.1.5.RELEASE.jar!/org/springframework/scheduling/quartz/SchedulerAccessor.class">
+    <entry file="file://$PROJECT_DIR$/quartz3003/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="88" column="37" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="37" />
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/impl/matchers/KeyMatcher.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE.jar!/org/springframework/web/servlet/HandlerInterceptor.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
-          <folding>
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="154">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.16/tomcat-embed-core-9.0.16.jar!/javax/servlet/http/HttpServlet.class">
+    <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/WebConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1477">
-          <caret line="290" selection-start-line="290" selection-end-line="290" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/TriggerKey.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/ee/jmx/jboss/JBoss4RMIRemoteMBeanScheduler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="33" column="38" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context-support/5.1.5.RELEASE/spring-context-support-5.1.5.RELEASE.jar!/org/springframework/scheduling/quartz/SchedulerFactoryBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6971">
-          <caret line="76" column="16" lean-forward="true" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
-          <folding>
-            <element signature="e#15923#15924#0" expanded="true" />
-            <element signature="e#15960#15961#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/AutowiringSpringBeanJobFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3001/src/main/java/com/ln/Procuder3001App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3001/src/main/java/com/ln/conf/QuartzConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="68" column="31" selection-start-line="68" selection-start-column="25" selection-end-line="68" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1214">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/Start.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        <state relative-caret-position="374">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/Jobjianting.java">
+    <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/ProcessInterceptor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/Jianting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        <state relative-caret-position="310">
+          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3002/src/main/java/com/ln/utils/Jianting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3002/src/main/java/com/ln/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3002/src/main/java/com/ln/utils/Start.java">
+    <entry file="file://$PROJECT_DIR$/web/src/vuex/elementforCom.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3002/src/main/java/com/ln/utils/Myjob2.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/web/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3002/src/main/java/com/ln/utils/Jobjianting.java">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/web/src/vuex/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/QuartzConfig.java">
+    <entry file="file://$PROJECT_DIR$/web/node_modules/element-ui/packages/table/src/table-column.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2354">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quartz3003/src/main/webapp/WEB-INF/view/hello.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="76" column="9" lean-forward="true" selection-start-line="71" selection-start-column="7" selection-end-line="76" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/components/kong.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="76" column="8" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/Procuder3003App.java">
+    <entry file="file://$PROJECT_DIR$/web/src/components/notfind.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="22" />
+        <state relative-caret-position="88">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/TriggerBuilder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <element signature="e#714#715#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/impl/RemoteMBeanScheduler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="311" column="35" selection-start-line="311" selection-start-column="35" selection-end-line="311" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/Scheduler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="104" column="36" selection-start-line="104" selection-start-column="36" selection-end-line="104" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/terracotta/quartz/PlainTerracottaJobStore.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="97" column="47" selection-start-line="97" selection-start-column="47" selection-end-line="97" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/terracotta/quartz/DefaultClusteredJobStore.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="983" column="33" selection-start-line="983" selection-start-column="33" selection-end-line="983" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/core/QuartzScheduler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="828" column="52" selection-start-line="828" selection-start-column="52" selection-end-line="828" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/terracotta/quartz/AbstractTerracottaJobStore.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="187" column="46" lean-forward="true" selection-start-line="187" selection-start-column="46" selection-end-line="187" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/impl/StdScheduler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="193" column="34" lean-forward="true" selection-start-line="193" selection-start-column="34" selection-end-line="193" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3002/src/main/java/com/ln/utils/QuartzUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="95" column="10" selection-start-line="95" selection-start-column="10" selection-end-line="95" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/QuartzUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="157" column="33" selection-start-line="157" selection-start-column="32" selection-end-line="157" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="24" column="28" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/Myjob2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3002/src/main/java/com/ln/Procuder3002App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3002/src/main/java/com/ln/config/AutowiringSpringBeanJobFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3002/src/main/java/com/ln/config/QuartzConfig.java">
+    <entry file="file://$PROJECT_DIR$/web/src/elementUIForMod.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
-          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+          <caret line="161" column="34" selection-start-line="161" selection-start-column="34" selection-end-line="161" selection-end-column="34" />
+          <folding>
+            <element signature="e#37#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverCloudApi/src/main/java/serverCloudApi/servers/fallbackFactorys/UserServiceFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serverCloudApi/src/main/java/serverCloudApi/servers/Userservice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/components/zi.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/node_modules/element-ui/packages/pagination/src/pagination.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/node_modules/element-ui/types/pagination.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/public/publicUrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/config/dev.env.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/config/prod.env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/vuex/model/modelA.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/web.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/components/hello.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/view/demo4.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="54" column="27" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#el-table#0;n#template#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/components/demo2.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/components/HelloWorld.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/components/jobMod.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="92" column="8" lean-forward="true" selection-start-line="92" selection-start-column="8" selection-end-line="92" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#el-header#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#el-dropdown#0;n#el-header#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-table#0;n#el-main#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/view/demo3.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="77" column="12" lean-forward="true" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/view/home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1452">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <element signature="n#style#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-aside#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1115,7 +1218,7 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>feignserver6001:war</last-edited>
+          <last-edited>quartz3003:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1127,11 +1230,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring (feignserver6001)|Spring</last-edited>
+          <last-edited>Spring (procuder7001)|Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.36195827" />
+                <option value="0.44783306" />
               </list>
             </option>
           </splitter-proportions>
@@ -1188,7 +1291,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.netflix.hystrix:hystrix-metrics-event-stream:1.5.18</last-edited>
+          <last-edited>servlet-api</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

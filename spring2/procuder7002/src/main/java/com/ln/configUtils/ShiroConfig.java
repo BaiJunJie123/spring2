@@ -40,7 +40,7 @@ public class ShiroConfig {
     public ShiroFilterFactoryBean shiroFilterFactoryBean(DefaultWebSecurityManager defaultWebSecurityManager){
         ShiroFilterFactoryBean shiro = new ShiroFilterFactoryBean();
         shiro.setSecurityManager(defaultWebSecurityManager);
-        shiro.setLoginUrl("/login");
+        shiro.setLoginUrl("/userLogin");
         shiro.setSuccessUrl("/sucess");
         Map<String, Filter> map = new HashMap<>();
         CasFilter casFilter = new CasFilter();

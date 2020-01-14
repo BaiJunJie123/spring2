@@ -147,14 +147,17 @@ public class QuartzUtils {
                jobDetail.getJobDataMap().put("data"+i, objects[i]);
            }
        }
+      // jobDetail.getJobDataMap().put("count", 1);
         Scheduler scheduler = schedulerFactoryBean.getObject();
        TriggerBuilder<Trigger> triggerTriggerBuilder = TriggerBuilder.newTrigger();
        triggerTriggerBuilder.withIdentity(triggerName, triggerGroupName);
        triggerTriggerBuilder.withSchedule(CronScheduleBuilder.cronSchedule(cron));
        //triggerTriggerBuilder.startNow();
+       // triggerTriggerBuilder.endAt()
        CronTrigger trigger = (CronTrigger) triggerTriggerBuilder.build();
         try {
             scheduler.scheduleJob(jobDetail,trigger);
+          //  scheduler.standby(); // 不会立即执行 挂起 ?
         } catch (SchedulerException e) {
             e.printStackTrace();
         }
@@ -179,12 +182,43 @@ public class QuartzUtils {
                         continue;
                     }
                     System.out.println(triggerKey.getGroup()+"=====triggerKey========"+triggerKey.getName());
-                    //得到trigger的状态
-                    getTriggerState(triggerKey.getName(),triggerKey.getGroup());
+
                 }
              }
 
          }
+        } catch (SchedulerException e) {
+            e.printStackTrace();
+        }
+    }
+    //暂停全部任务
+    public void stopAllJob(){
+        Scheduler scheduler = schedulerFactoryBean.getObject();
+
+        try {
+            List<String> list =   scheduler.getJobGroupNames();
+            for(String groupName : list){
+                for(JobKey jobKey : scheduler.getJobKeys(GroupMatcher.jobGroupEquals(groupName))){
+                    if(jobKey.getGroup().equals("RECOVERING_JOBS")){
+                        continue;
+                    }
+                    String jobName = jobKey.getName();
+                    String jobgroupName = jobKey.getGroup();
+                    List<Trigger> list1 = (List<Trigger>) scheduler.getTriggersOfJob(jobKey);
+                    for (Trigger s : list1){
+                        TriggerKey triggerKey =   s.getKey();
+                        if(triggerKey.getGroup().equals("RECOVERING_JOBS")){
+                            continue;
+                        }
+                        //得到trigger的状态
+                        String status = getTriggerState(triggerKey.getName(),triggerKey.getGroup());
+                        if(!status.equals("PAUSED")){
+                            stopJob(jobName,jobgroupName);
+                        }
+                    }
+                }
+
+            }
         } catch (SchedulerException e) {
             e.printStackTrace();
         }

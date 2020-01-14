@@ -8,4 +8,10 @@
 	<select id="findList" resultMap="finduser">
 	     select * from User
 	</select>
+
+	<insert id="add" parameterType="User">
+
+		insert into User(name,pass,dbSource) values (#{user.name},#{user.pass},#{user.dbSource})
+
+	</insert>
 </mapper>

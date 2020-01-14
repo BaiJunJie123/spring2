@@ -1,5 +1,6 @@
 package com.ln.controller;
 
+import com.ln.config.QuartzConfig;
 import com.ln.utils.RedisCacheManager;
 import com.ln.utils.Redisutils;
 import org.apache.shiro.SecurityUtils;

@@ -5,6 +5,8 @@ import com.ln.utils.RedisCache;
 import com.ln.utils.RedisCacheManager;
 import com.ln.utils.RedisSessionDAO;
 import com.netflix.ribbon.proxy.annotation.Http;
+import com.sun.org.apache.xml.internal.security.exceptions.Base64DecodingException;
+import com.sun.org.apache.xml.internal.security.utils.Base64;
 import org.apache.shiro.authc.Authenticator;
 import org.apache.shiro.authc.pam.ModularRealmAuthenticator;
 import org.apache.shiro.authz.Authorizer;
@@ -14,6 +16,7 @@ import org.apache.shiro.cas.CasSubjectFactory;
 import org.apache.shiro.realm.Realm;
 import org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisor;
 import org.apache.shiro.spring.web.ShiroFilterFactoryBean;
+import org.apache.shiro.web.mgt.CookieRememberMeManager;
 import org.apache.shiro.web.mgt.DefaultWebSecurityManager;
 import org.apache.shiro.web.servlet.SimpleCookie;
 import org.apache.shiro.web.session.mgt.DefaultWebSessionManager;
@@ -43,7 +46,7 @@ public class ShiroConfig {
     public ShiroFilterFactoryBean shiroFilterFactoryBean(DefaultWebSecurityManager defaultWebSecurityManager){
         ShiroFilterFactoryBean shiro = new ShiroFilterFactoryBean();
         shiro.setSecurityManager(defaultWebSecurityManager);
-        shiro.setLoginUrl("/login");
+        shiro.setLoginUrl("/userLogin");
         shiro.setSuccessUrl("/sucess");
         Map<String, Filter> map = new HashMap<>();
         CasFilter casFilter = new CasFilter();
@@ -95,6 +98,17 @@ public class ShiroConfig {
         sim.setPath("/");
         sim.setHttpOnly(true);
         return sim;
+    }
+    @Bean
+    public CookieRememberMeManager cookieRememberMeManager() {
+        CookieRememberMeManager cookieRememberMeManager = new CookieRememberMeManager();
+        try {
+            cookieRememberMeManager.setCipherKey(Base64.decode("6ZmI6I2j5Y+R5aSn5ZOlAA=="));
+        } catch (Base64DecodingException e) {
+            e.printStackTrace();
+        }
+        cookieRememberMeManager.setCookie(simpleCookie());
+        return cookieRememberMeManager;
     }
     //单点登陆
     @Bean

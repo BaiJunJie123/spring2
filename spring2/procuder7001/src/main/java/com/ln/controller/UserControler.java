@@ -3,6 +3,7 @@ package com.ln.controller;
 import java.sql.SQLTransactionRollbackException;
 import java.util.List;
 
+import com.ln.config.QuartzConfig;
 import com.ln.utils.RedisCacheManager;
 import com.sun.xml.internal.xsom.impl.parser.SubstGroupBaseTypeRef;
 import org.apache.shiro.SecurityUtils;
@@ -25,13 +26,14 @@ import javax.servlet.http.HttpSession;
 
 @Controller
 public class UserControler {
+
 	@Autowired
 	private RedisCacheManager redisCacheManager;
 	@Autowired
 	private com.ln.service.Userservice Userservice;
 	//@Autowired
 	//private DiscoveryClient client; //eureka服务发现
-	@RequiresRoles("admins")
+	//@RequiresRoles("admins")
 	@RequestMapping(value ="/findList",method=RequestMethod.GET)
 	public String findList() {
 		//Userservice.findList();
@@ -41,6 +43,18 @@ public class UserControler {
 			System.out.println(s.getDbSource()+"=="+s.getName());
 		}
 		return "lists";
+	}
+
+
+	@RequestMapping("/add")
+	public String addUser(){
+
+		User u = new User();
+		u.setPass("7777");
+		u.setName("7777");
+		u.setDbSource("77777");
+		Userservice.add(u);
+		return "ok";
 	}
 
 	@RequestMapping("/denglu")
