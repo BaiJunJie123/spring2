@@ -22,6 +22,7 @@
         <module>quartz3001</module>
         <module>quartz3002</module>
         <module>quartz3003</module>
+        <module>beetlweb</module>
     </modules>
     <properties>
         <properties.build.sourceEncoding>UTF-8</properties.build.sourceEncoding>

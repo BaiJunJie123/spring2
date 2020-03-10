@@ -58,6 +58,7 @@ public class RedisManagers  extends WorkAloneRedisManager implements IRedisManag
     }
 
     public void init() {
+        // this 对象锁  xx.class 类锁
         synchronized(this) {
             if (this.jedisPool == null) {
                 //String[] hostAndPort = this.host.split(":");

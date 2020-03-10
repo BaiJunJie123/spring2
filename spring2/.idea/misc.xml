@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/feignserver6001" />
     <file type="web" url="file://$PROJECT_DIR$/feignserver6002" />
     <file type="web" url="file://$PROJECT_DIR$/quartz3003" />
+    <type id="Spring" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />

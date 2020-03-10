@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>11111</title>
+</head>
+<>
+   <p>aaaaa</p>
+     @ var lists = ["aaa","bbb","ccc"];
+     @for(z in lists){
+        <p>${z}</p>
+       @if (zLP.index == 1){
+            <h3>这是第一个</h3>
+       @}
+     @}
+
+   <h3>
+       @funa("aaa","ccc");
+   </h3>
+
+   <#mytag attr="我的老家"></#mytag>
+
+   @var data = date();
+
+    <h1>${data,dateFormat="yyyy-MM-dd"}</h1>
+
+   <h2>${@com.ln.config.model.CeshiLie.getzhi()}</h2>
+
+    <h4>
+        @page(1,10);
+    </h4>
+
+</body>
+</html>

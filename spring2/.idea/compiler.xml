@@ -6,19 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="zuuleServer5001" />
-        <module name="feignserver6001" />
         <module name="procuder7002" />
-        <module name="procuder7001" />
-        <module name="eureka8001" />
+        <module name="feignserver6001" />
+        <module name="serverCloudApi" />
         <module name="eureka8003" />
-        <module name="eureka8002" />
+        <module name="beetlweb" />
+        <module name="eureka8001" />
+        <module name="quartz3001" />
         <module name="quartz3003" />
         <module name="quartz3002" />
-        <module name="quartz3001" />
-        <module name="serverCloudApi" />
+        <module name="eureka8002" />
+        <module name="zuuleServer5001" />
         <module name="feignserver6002" />
         <module name="zuuleServer5002" />
+        <module name="procuder7001" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

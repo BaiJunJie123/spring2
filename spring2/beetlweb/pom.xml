@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>spring2</artifactId>
+        <groupId>com.ln.cn</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>beetlweb</artifactId>
+    <dependencies>
+        <dependency>
+            <groupId>com.ibeetl</groupId>
+            <artifactId>beetl-framework-starter</artifactId>
+            <version>1.2.10.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.58</version>
+        </dependency>
+        <!-- CKFinder begin -->
+        <dependency>
+            <groupId>com.ckfinder</groupId>
+            <artifactId>apache-ant-zip</artifactId>
+            <version>2.3.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.finder</groupId>
+            <artifactId>fileeditor</artifactId>
+            <version>2.6.2.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.finder</groupId>
+            <artifactId>imgresize</artifactId>
+            <version>2.6.2.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.finder</groupId>
+            <artifactId>watermark</artifactId>
+            <version>2.6.2.1</version>
+        </dependency>
+        <dependency>
+            <groupId>com.finder</groupId>
+            <artifactId>ckfinder</artifactId>
+            <version>2.6.2.1</version>
+        </dependency>
+        <dependency>
+            <groupId>net.coobird</groupId>
+            <artifactId>thumbnailator</artifactId>
+            <version>0.4.8</version>
+        </dependency>
+        <!-- CKFinder end -->
+
+        <dependency>
+            <groupId>com.mchange.c3p0</groupId>
+            <artifactId>com.springsource.com.mchange.v2.c3p0</artifactId>
+            <version>0.9.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-devtools</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.quartz-scheduler</groupId>
+            <artifactId>quartz</artifactId>
+            <version>2.3.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.quartz-scheduler</groupId>
+            <artifactId>quartz-jobs</artifactId>
+            <version>2.3.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context-support</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-devtools</artifactId>
+            <optional>true</optional>
+            <scope>true</scope>
+        </dependency>
+        <!--要想设置quartz延迟启动就得有web依赖-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <!--<dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context-support</artifactId>
+            <version>5.1.9.RELEASE</version>
+            <scope>compile</scope>
+        </dependency>-->
+        <!-- <dependency>
+             <groupId>junit</groupId>
+             <artifactId>junit</artifactId>
+         </dependency>-->
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.3.2</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.ln.cn</groupId>
+            <artifactId>serverCloudApi</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>jstl</artifactId>
+        </dependency>
+        <!-- servlet 依赖包 -->
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>javax.servlet-api</artifactId>
+            <scope>provided</scope>
+        </dependency>
+        <!--        <dependency>-->
+        <!--            <groupId>org.springframework.boot</groupId>-->
+        <!--            <artifactId>spring-boot-starter-tomcat</artifactId>-->
+        <!--            <scope>provided</scope>-->
+        <!--        </dependency>-->
+
+        <dependency>
+            <groupId>org.apache.tomcat.embed</groupId>
+            <artifactId>tomcat-embed-jasper</artifactId>
+            <scope>provided</scope>
+        </dependency>
+
+
+    </dependencies>
+
+
+</project>

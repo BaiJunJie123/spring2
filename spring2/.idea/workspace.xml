@@ -6,114 +6,24 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b577674-8c5b-405d-bf21-cd9d3aa1e1fb" name="Default Changelist" comment="tijiao">
-      <change afterPath="$PROJECT_DIR$/web/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/.postcssrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/build/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/build/check-versions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/build/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/build/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/build/vue-loader.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/build/webpack.base.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/build/webpack.dev.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/build/webpack.prod.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/config/dev.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/config/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/config/prod.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/components/HelloWorld.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/components/demo2.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/components/hello.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/components/jobMod.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/components/kong.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/components/notfind.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/components/zi.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/elementUIForMod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/public/publicUrl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/view/demo3.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/view/demo4.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/view/home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/vuex/model/modelA.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/vuex/model/modelB.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/src/vuex/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/web.iml" afterDir="false" />
+    <list default="true" id="5b577674-8c5b-405d-bf21-cd9d3aa1e1fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka8001/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka8001/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka8001/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka8001/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka8002/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka8002/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka8002/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka8002/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/procuder7001.iml" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/procuder7001.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/Procuder7001App.java" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/Procuder7001App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/configUtils/ShiroConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/configUtils/ShiroConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/controller/UserControler.java" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/controller/UserControler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/service/Userservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/service/Userservice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/src/main/resources/mybatis/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/src/main/resources/mybatis/mapper/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/META-INF/procuder7001.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/Procuder7001App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/configUtils/DruidConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/configUtils/RedisConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/configUtils/ShiroConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/controller/UserControler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/dao/UserDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/service/Userservice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/service/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Myrealm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/RedisCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/RedisCacheManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/RedisManagers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/RedisSessionDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/Redisutils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/SerializeUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/com/ln/utils/poi/PoiUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7001/target/classes/mybatis/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/target/classes/mybatis/mapper/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7002/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7002/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/Procuder7002App.java" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/Procuder7002App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/configUtils/ShiroConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/configUtils/ShiroConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/utils/RedisManagers.java" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/utils/RedisManagers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/controller/UserControler.java" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/controller/UserControler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7002/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7002/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7002/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7002/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7002/target/classes/com/ln/Procuder7002App.class" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7002/target/classes/com/ln/Procuder7002App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procuder7002/target/classes/com/ln/configUtils/ShiroConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7002/target/classes/com/ln/configUtils/ShiroConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/controller/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/utils/QuartzUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/utils/QuartzUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/procuder7002/target/classes/com/ln/controller/UserControler.class" beforeDir="false" afterPath="$PROJECT_DIR$/procuder7002/target/classes/com/ln/controller/UserControler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/config/AutowiringSpringBeanJobFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/AutowiringSpringBeanJobFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/config/QuartzConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3002/src/main/java/com/ln/QuartzConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3002/target/classes/com/ln/config/AutowiringSpringBeanJobFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3002/target/classes/com/ln/config/QuartzConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3002/target/classes/com/ln/controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3002/target/classes/com/ln/controller/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quartz3002/target/classes/com/ln/utils/QuartzUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3002/target/classes/com/ln/utils/QuartzUtils.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quartz3003/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/Procuder3003App.java" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/Procuder3003App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/QuartzConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/QuartzConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/controller/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/Myjob2.java" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/Myjob2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/QuartzUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/QuartzUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz3003/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz3003/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quartz3003/target/classes/com/ln/config/QuartzConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/target/classes/com/ln/config/QuartzConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz3003/target/classes/com/ln/controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/target/classes/com/ln/controller/TestController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz3003/target/classes/com/ln/utils/Myjob2.class" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/target/classes/com/ln/utils/Myjob2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quartz3003/target/classes/com/ln/utils/QuartzUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/quartz3003/target/classes/com/ln/utils/QuartzUtils.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -131,11 +41,15 @@
     <ignored path="$PROJECT_DIR$/Procuder3002App/target/" />
     <ignored path="$PROJECT_DIR$/quartz3002/target/" />
     <ignored path="$PROJECT_DIR$/quartz3003/target/" />
+    <ignored path="$PROJECT_DIR$/beetlweb/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -164,110 +78,100 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/src/view/demo4.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="54" column="27" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
-              <folding>
-                <element signature="n#style#0;n#el-table#0;n#template#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/src/components/demo2.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="36" column="28" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/src/components/HelloWorld.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/src/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-40">
-              <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/src/App.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/src/components/jobMod.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="92" column="8" lean-forward="true" selection-start-line="92" selection-start-column="8" selection-end-line="92" selection-end-column="8" />
-              <folding>
-                <element signature="n#style#0;n#el-header#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#i#0;n#el-dropdown#0;n#el-header#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#el-table#0;n#el-main#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/src/view/demo3.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/src/router/index.js">
+        <entry file="file://$PROJECT_DIR$/beetlweb/src/main/resources/beetl.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="77" column="12" lean-forward="true" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beetlweb/src/main/resources/functions/page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beetlweb/src/main/java/com/ln/controller/TestController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
               <folding>
-                <element signature="e#0#21#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beetlweb/src/main/resources/templates/layout.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beetlweb/src/main/java/com/ln/config/model/FunA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beetlweb/src/main/java/com/ln/config/model/CeshiLie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/src/view/home.vue">
+        <entry file="file://$PROJECT_DIR$/beetlweb/src/main/resources/templates/hello.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1452">
-              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+            <state relative-caret-position="339">
+              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/beetlweb/src/main/java/com/ln/config/model/Mytag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="19" column="35" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="35" />
               <folding>
-                <element signature="n#style#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#el-aside#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#!!top" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/QuartzConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1782">
+              <caret line="97" column="9" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/finder/ckfinder/2.6.2.1/ckfinder-2.6.2.1.jar!/com/ckfinder/connector/configuration/IConfiguration.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -277,20 +181,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="FxmlFile" />
-        <option value="Jsp File" />
-        <option value="Class" />
         <option value="Vue Single File Component" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>numberspinner</find>
-      <find>tabs-header-plain</find>
-      <find>everyTime</find>
-      <find>#numberspinnerminList</find>
       <find>easyui-layout</find>
       <find>tabs-scroller-right</find>
       <find>minList</find>
@@ -317,6 +218,10 @@
       <find>module</find>
       <find>smtd</find>
       <find>geturl</find>
+      <find>authorizationCache</find>
+      <find>doGetAuthorizationInfo</find>
+      <find>json</find>
+      <find>appendChild</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -328,43 +233,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/WebMvcConfig.java" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/webapp/static/js/addons/rating.js" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/entity/SchedulingJob.java" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/webapp/static/css2/style.css" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/Job3.java" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/QuartzUtils.java" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/QuartzConfig.java" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/webapp/WEB-INF/view/index.jsp" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/webapp/WEB-INF/view/newJob.jsp" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/webapp/static/Cron/themes/bootstrap/easyui.css" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/webapp/static/Cron/themes/bootstrap/easyui.min.css" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/Ce.java" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/webapp/WEB-INF/view/hello.jsp" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/Procuder3003App.java" />
-        <option value="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/Procuder7001App.java" />
-        <option value="$PROJECT_DIR$/procuder7001/pom.xml" />
-        <option value="$PROJECT_DIR$/quartz3003/META-INF/resources/WEB-INF/view/hello.jsp" />
-        <option value="$PROJECT_DIR$/procuder7001/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/controller/UserControler.java" />
-        <option value="$PROJECT_DIR$/procuder7002/pom.xml" />
-        <option value="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/controller/UserControler.java" />
-        <option value="$PROJECT_DIR$/quartz3003/src/main/resources/application.properties" />
-        <option value="$MAVEN_REPOSITORY$/javax/servlet/jstl/1.2/jstl-1.2.pom" />
-        <option value="$PROJECT_DIR$/web/build/webpack.base.conf.js" />
-        <option value="$PROJECT_DIR$/web/src/view/login.vue" />
-        <option value="$PROJECT_DIR$/web/src/assets/js/first.js" />
-        <option value="$PROJECT_DIR$/web/src/components/text.vue" />
-        <option value="$PROJECT_DIR$/web/src/components/demo2.vue" />
-        <option value="$PROJECT_DIR$/web/src/components/hello.vue" />
-        <option value="$PROJECT_DIR$/web/src/components/zi.vue" />
-        <option value="$PROJECT_DIR$/web/src/components/notfind.vue" />
         <option value="$PROJECT_DIR$/web/src/vuex/model/modelB.js" />
         <option value="$PROJECT_DIR$/web/src/vuex/model/modelA.js" />
         <option value="$PROJECT_DIR$/web/src/vuex/store.js" />
-        <option value="$PROJECT_DIR$/web/src/view/demo3.vue" />
         <option value="$PROJECT_DIR$/web/src/elementModel.js" />
-        <option value="$PROJECT_DIR$/quartz3003/pom.xml" />
         <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/controller/TestController.java" />
         <option value="$PROJECT_DIR$/web/config/index.js" />
         <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/WebConfiguration.java" />
@@ -379,8 +251,44 @@
         <option value="$PROJECT_DIR$/web/src/public/publicUrl.js" />
         <option value="$PROJECT_DIR$/web/src/main.js" />
         <option value="$PROJECT_DIR$/web/src/components/jobMod.vue" />
+        <option value="$PROJECT_DIR$/web/src/view/demo3.vue" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/java/com/ln/config/MyCof.java" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/webapp/WEB-INF/templates/hello.jsp" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/java/com/ln/BeetlApp.java" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/resources/templates/hello.btl" />
+        <option value="$PROJECT_DIR$/procuder7002/src/main/java/com/ln/controller/UserControler.java" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/resources/templates/layout.html" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/Ce.java" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/proxy/CeProxy.java" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/proxy/Daili.java" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/proxy/ChuLilei.java" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/proxy/DongTai.java" />
+        <option value="$PROJECT_DIR$/procuder7001/src/main/java/com/ln/utils/RedisManagers.java" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/proxy/Ceshi1.java" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/java/com/ln/utils/proxy/suo.java" />
+        <option value="$PROJECT_DIR$/quartz3003/src/main/webapp/WEB-INF/view/hello.jsp" />
+        <option value="$PROJECT_DIR$/quartz3003/pom.xml" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/resources/templates/hello2.html" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/resources/static/ckeditor/config.js" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/java/com/ln/config/CkfinderConfig.java" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/resources/static/ckfinder/ckfinder.js" />
+        <option value="$PROJECT_DIR$/beetlweb/pom.xml" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/java/com/ln/config/CKFinderConfig.java" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/java/com/ln/config/Config.java" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/java/com/ln/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/java/com/ln/config/BeetlConf.java" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/java/com/ln/config/model/FunA.java" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/java/com/ln/config/model/Mytag.java" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/resources/beetl.properties" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/java/com/ln/config/model/CeshiLie.java" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/resources/functions/page.html" />
+        <option value="$PROJECT_DIR$/beetlweb/src/main/resources/templates/hello.html" />
       </list>
     </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -420,10 +328,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="129" />
-    <option name="y" value="123" />
-    <option name="width" value="1675" />
-    <option name="height" value="800" />
+    <option name="x" value="462" />
+    <option name="y" value="445" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -434,6 +342,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -444,16 +353,230 @@
             <path>
               <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring2" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="beetlweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="beetlweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="beetlweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="beetlweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="beetlweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ln" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="beetlweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ln" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="beetlweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ln" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="beetlweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ln" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="beetlweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="beetlweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="beetlweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka8001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ln" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka8002" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ln" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="quartz3003" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="quartz3003" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="quartz3003" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="quartz3003" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="quartz3003" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ln" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="quartz3003" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ln" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring2" type="462c0819:PsiDirectoryNode" />
+              <item name="quartz3003" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -464,7 +587,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/quartz3003/target/quartz3003-1.0-SNAPSHOT.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/beetlweb/src/main/resources/static/ckfinder" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -475,31 +598,44 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15410726" />
     <property name="project.structure.side.proportion" value="0.44783306" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="C:\idea\IntelliJ IDEA 2019.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\IDEACangKu\2\spring2\procuder7001\src\main\resources\lib" />
-      <recent name="E:\IDEACangKu\2\spring2\quartz3003\src\main\webapp" />
-      <recent name="E:\IDEACangKu\2\spring2\quartz3003\META-INF\resources" />
-      <recent name="E:\IDEACangKu\2\spring2\quartz3003\src\main\resources\META-INF\resources" />
-      <recent name="E:\IDEACangKu\2\spring2\quartz3003\src\main\webapp\static\Cron\themes\bootstrap" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEACangKu\2\spring2\quartz3003\src\main\webapp\META-INF\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ln.config" />
       <recent name="com.ln.utils" />
       <recent name="com.ln.controller" />
       <recent name="com.ln" />
       <recent name="" />
-      <recent name="com.ln.configUtils" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\IDEACangKu\2\spring2\quartz3003\src\main\webapp\META-INF\resources" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEACangKu\2\spring2\beetlweb\src\main\resources\static\ckfinder" />
+      <recent name="E:\IDEACangKu\2\spring2\beetlweb\src\main\resources\static\xml" />
+      <recent name="E:\IDEACangKu\2\spring2\beetlweb\src\main\resources\static" />
+      <recent name="E:\IDEACangKu\2\spring2\beetlweb\src\main\webapp\WEB-INF" />
+      <recent name="E:\IDEACangKu\2\spring2\beetlweb\src\main\resources\templates" />
     </key>
+  </component>
+  <component name="RestServicesNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="Found 37 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -513,8 +649,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Procuder3003App">
-    <configuration name="Ce" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Spring Boot.BeetlApp">
+    <configuration name="Ceshi1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ln.utils.proxy.Ceshi1" />
+      <module name="quartz3003" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ln.utils.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ce.st" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="quartz3003" />
       <extension name="coverage">
         <pattern>
@@ -524,7 +673,8 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.ln.utils" />
       <option name="MAIN_CLASS_NAME" value="com.ln.utils.Ce" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="st" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -545,6 +695,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BeetlApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="beetlweb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ln.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ln.BeetlApp" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_WORKING_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Eureka8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eureka8001" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ln.Eureka8001" />
@@ -559,14 +724,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Eureka8003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="Eureka8003" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eureka8003" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ln.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ln.Eureka8003" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -586,30 +745,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Procuder3002App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="quartz3002" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ln.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ln.Procuder3002App" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Procuder3003App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="quartz3003" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ln.*" />
+          <option name="PATTERN" value="com.ln.config.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.ln.Procuder3003App" />
       <option name="WORKING_DIRECTORY" value="file://$MODULE_WORKING_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -631,8 +779,9 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Ceshi1" />
       <item itemvalue="JUnit.Ce.start" />
-      <item itemvalue="JUnit.Ce" />
+      <item itemvalue="JUnit.Ce.st" />
       <item itemvalue="Node.js.bin\www" />
       <item itemvalue="Spring Boot.Eureka8001" />
       <item itemvalue="Spring Boot.Eureka8002" />
@@ -641,16 +790,16 @@
       <item itemvalue="Spring Boot.Procuder7002App" />
       <item itemvalue="Spring Boot.Procuder7001App" />
       <item itemvalue="Spring Boot.Eureka8003" />
-      <item itemvalue="Spring Boot.Procuder3002App" />
       <item itemvalue="Spring Boot.Procuder3003App" />
+      <item itemvalue="Spring Boot.BeetlApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.BeetlApp" />
         <item itemvalue="Spring Boot.Procuder3003App" />
+        <item itemvalue="Application.Ceshi1" />
+        <item itemvalue="JUnit.Ce.st" />
         <item itemvalue="JUnit.Ce.start" />
-        <item itemvalue="JUnit.Ce" />
-        <item itemvalue="Spring Boot.Eureka8003" />
-        <item itemvalue="Spring Boot.Procuder3002App" />
       </list>
     </recent_temporary>
   </component>
@@ -726,7 +875,31 @@
       <workItem from="1578617256060" duration="17003000" />
       <workItem from="1578818846495" duration="5506000" />
       <workItem from="1578876089765" duration="23371000" />
-      <workItem from="1578961306508" duration="20068000" />
+      <workItem from="1578961306508" duration="21011000" />
+      <workItem from="1579048471695" duration="9352000" />
+      <workItem from="1579078149830" duration="408000" />
+      <workItem from="1579078591553" duration="274000" />
+      <workItem from="1579134871263" duration="11811000" />
+      <workItem from="1579153597389" duration="6338000" />
+      <workItem from="1579221526774" duration="10570000" />
+      <workItem from="1579393867799" duration="15250000" />
+      <workItem from="1579422905336" duration="1530000" />
+      <workItem from="1579478953239" duration="25015000" />
+      <workItem from="1580108686078" duration="2781000" />
+      <workItem from="1580367943351" duration="3228000" />
+      <workItem from="1580455701549" duration="7241000" />
+      <workItem from="1580528041317" duration="11866000" />
+      <workItem from="1580623932525" duration="5124000" />
+      <workItem from="1580704767275" duration="2763000" />
+      <workItem from="1581562975655" duration="1126000" />
+      <workItem from="1581601444188" duration="847000" />
+      <workItem from="1581834960409" duration="967000" />
+      <workItem from="1582611616629" duration="10292000" />
+      <workItem from="1582636213640" duration="2510000" />
+      <workItem from="1582726420399" duration="2920000" />
+      <workItem from="1582961178797" duration="8133000" />
+      <workItem from="1583063464264" duration="5561000" />
+      <workItem from="1583763994475" duration="1477000" />
     </task>
     <task id="LOCAL-00001" summary="tijiao">
       <created>1575516731464</created>
@@ -756,13 +929,17 @@
       <option name="project" value="LOCAL" />
       <updated>1575516974517</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="tijiao">
+      <created>1578988813961</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578988813961</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Ce_start - 2019.12.31 at 10h 37m 28s.xml">
-      <configuration name="Ce.start" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Ce_start - 2019.12.31 at 10h 44m 59s.xml">
       <configuration name="Ce.start" configurationId="JUnit" />
     </history-entry>
@@ -790,14 +967,63 @@
     <history-entry file="Ce_start - 2020.01.01 at 19h 48m 45s.xml">
       <configuration name="Ce.start" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Ce_st - 2020.01.27 at 15h 56m 55s.xml">
+      <configuration name="Ce.st" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="778786000" />
+    <option name="totallyTimeSpent" value="927113000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993395" visible="true" weight="0.24253732" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49579832" visible="true" weight="0.19616205" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5021692" side_tool="true" weight="0.17697228" />
+      <window_info id="Learn" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info id="npm" order="9" side_tool="true" />
+      <window_info id="JRebel" order="10" sideWeight="0.5042017" side_tool="true" weight="0.19189766" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.75159913" weight="0.2462039" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29284164" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" weight="0.33188722" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.12581345" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.20390455" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.2494577" />
+      <window_info anchor="bottom" id="TypeScript" order="15" />
+      <window_info anchor="bottom" id="JRebel Console" order="16" sideWeight="0.11727079" side_tool="true" visible="true" weight="0.36008677" />
+      <window_info anchor="bottom" id="Problems" order="17" />
+      <window_info anchor="bottom" id="JRebel Executor" order="18" sideWeight="0.88272923" weight="0.46312365" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.16897655" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="BPMNPalette" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Database" order="9" weight="0.32995737" />
+      <window_info anchor="right" id="CDI" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" weight="0.12153518" />
+      <window_info active="true" anchor="right" id="RestServices" order="12" visible="true" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4993395" visible="true" weight="0.2531983" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -818,7 +1044,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010661" side_tool="true" weight="0.33188722" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.45878524" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.34164858" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.20390455" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.2494577" />
@@ -835,7 +1061,8 @@
       <window_info anchor="right" id="Database" order="9" weight="0.32995737" />
       <window_info anchor="right" id="CDI" order="10" />
       <window_info anchor="right" id="Bean Validation" order="11" weight="0.12153518" />
-    </layout>
+      <window_info anchor="right" id="RestServices" order="12" weight="0.32995737" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -844,377 +1071,398 @@
     <MESSAGE value="tijiao" />
     <option name="LAST_COMMIT_MESSAGE" value="tijiao" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/realm/AuthorizingRealm.class</url>
-          <line>219</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/src/components/text.vue" />
-    <entry file="file://$PROJECT_DIR$/web/src/view/login.vue" />
-    <entry file="file://$PROJECT_DIR$/web/.postcssrc.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/node_modules/webpack-bundle-analyzer/public/viewer.js">
+    <entry file="file://$PROJECT_DIR$/procuder7002/src/main/java/com/ln/configUtils/RedisConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret column="61541" selection-start-column="61541" selection-end-column="61541" />
+        <state relative-caret-position="242">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/assets/logo.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/procuder7002/src/main/java/com/ln/configUtils/ShiroConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/procuder7002/src/main/java/com/ln/utils/RedisSessionDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/.editorconfig">
+    <entry file="file://$PROJECT_DIR$/procuder7002/src/main/java/com/ln/utils/SerializeUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/node_modules/vuex/types/index.d.ts">
+    <entry file="file://$PROJECT_DIR$/procuder7002/src/main/java/com/ln/utils/RedisManagers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2209">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="132">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/vuex/model/modelB.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="4" selection-start-line="7" selection-start-column="1" selection-end-line="14" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/node_modules/element-ui/types/element-ui.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="177" column="13" selection-start-line="177" selection-start-column="13" selection-end-line="177" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/node_modules/element-ui/lib/theme-chalk/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#175113#175252#2" expanded="true" />
-            <element signature="e#177539#177678#2" expanded="true" />
-            <element signature="e#181067#181206#2" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/elementModel.js" />
-    <entry file="file://$PROJECT_DIR$/web/node_modules/axios/index.d.ts">
+    <entry file="file://$PROJECT_DIR$/procuder7002/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/controller/TestController.java">
+    <entry file="file://$PROJECT_DIR$/procuder7002/src/main/java/com/ln/utils/RedisCacheManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1342">
-          <caret line="77" column="50" selection-start-line="77" selection-start-column="50" selection-end-line="77" selection-end-column="50" />
+        <state relative-caret-position="220">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/procuder7002/src/main/java/com/ln/utils/RedisCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/procuder7002/src/main/java/com/ln/utils/Myrealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/procuder7002/src/main/java/com/ln/Procuder7002App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1030#1031#0" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3003/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        <state relative-caret-position="110">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/resources/static/ckfinder/help/cs/files/001.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/resources/static/a.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/resources/static/ckeditor/lang/en.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/quartz3003/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        <state relative-caret-position="513">
+          <caret line="35" column="46" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE.jar!/org/springframework/web/servlet/HandlerInterceptor.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="12" column="48" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/WebConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/ProcessInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/vuex/elementforCom.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/vuex/store.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/node_modules/element-ui/packages/table/src/table-column.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2354">
-          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quartz3003/src/main/webapp/WEB-INF/view/hello.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="76" column="9" lean-forward="true" selection-start-line="71" selection-start-column="7" selection-end-line="76" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/components/kong.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/components/notfind.vue">
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/resources/static/ckeditor/ckeditor.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <caret line="7" column="844" selection-start-line="7" selection-start-column="844" selection-end-line="7" selection-end-column="844" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/elementUIForMod.js">
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/resources/static/ckfinder/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="161" column="34" selection-start-line="161" selection-start-column="34" selection-end-line="161" selection-end-column="34" />
-          <folding>
-            <element signature="e#37#72#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/serverCloudApi/src/main/java/serverCloudApi/servers/fallbackFactorys/UserServiceFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/serverCloudApi/src/main/java/serverCloudApi/servers/Userservice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/components/zi.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/node_modules/element-ui/packages/pagination/src/pagination.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="30" column="15" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/node_modules/element-ui/types/pagination.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/public/publicUrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/config/dev.env.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/config/prod.env.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/config/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/vuex/model/modelA.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/web.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/components/hello.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-110">
-          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-40">
-          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        <state>
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/App.vue">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/resources/static/ckeditor/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/com/ckfinder/ckfinder/2.3/ckfinder-2.3.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/resources/static/ckfinder/ckfinder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="1708" column="25" lean-forward="true" selection-start-line="1708" selection-start-column="25" selection-end-line="1708" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="e#15#21#1" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#strong#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/finder/ckfinder/2.6.2.1/ckfinder-2.6.2.1.jar!/com/ckfinder/connector/utils/FileUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/finder/ckfinder/2.6.2.1/ckfinder-2.6.2.1.jar!/com/ckfinder/connector/utils/PathUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="50" selection-start-line="8" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/com/ckfinder/apache-ant-zip/2.3.0/apache-ant-zip-2.3.0.pom">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/view/demo4.vue">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="54" column="27" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+        <state relative-caret-position="440">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar!/javax/servlet/ServletConfig.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/com/finder/ckfinder/2.6.2.1/ckfinder-2.6.2.1.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/finder/ckfinder/2.6.2.1/ckfinder-2.6.2.1.jar!/com/ckfinder/connector/ConnectorServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="45" column="29" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="29" />
           <folding>
-            <element signature="n#style#0;n#el-table#0;n#template#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#0#13058#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/components/demo2.vue">
+    <entry file="file://$PROJECT_DIR$/beetlweb/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="36" column="28" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="28" />
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/components/HelloWorld.vue">
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/java/com/ln/config/Config.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/finder/ckfinder/2.6.2.1/ckfinder-2.6.2.1.jar!/com/ckfinder/connector/configuration/AccessControlLevelsList.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        <state relative-caret-position="132">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/components/jobMod.vue">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/finder/ckfinder/2.6.2.1/ckfinder-2.6.2.1.jar!/com/ckfinder/connector/configuration/Configuration.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="92" column="8" lean-forward="true" selection-start-line="92" selection-start-column="8" selection-end-line="92" selection-end-column="8" />
+        <state relative-caret-position="132">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/finder/ckfinder/2.6.2.1/ckfinder-2.6.2.1.jar!/com/ckfinder/connector/configuration/ConfigurationFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/finder/ckfinder/2.6.2.1/ckfinder-2.6.2.1.jar!/com/ckfinder/connector/configuration/Constants.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/finder/ckfinder/2.6.2.1/ckfinder-2.6.2.1.jar!/com/ckfinder/connector/configuration/DefaultPathBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/finder/ckfinder/2.6.2.1/ckfinder-2.6.2.1.jar!/com/ckfinder/connector/configuration/IBasePathBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/java/com/ln/config/CKFinderConfig.java" />
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/resources/static/xml/ckfinder.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/java/com/ln/config/BeetlConf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/java/com/ln/BeetlApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
-            <element signature="n#style#0;n#el-header#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#i#0;n#el-dropdown#0;n#el-header#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#el-table#0;n#el-main#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/view/demo3.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="42" column="14" lean-forward="true" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/router/index.js">
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/resources/beetl.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="77" column="12" lean-forward="true" selection-start-line="77" selection-start-column="12" selection-end-line="77" selection-end-column="12" />
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/resources/functions/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/java/com/ln/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/view/home.vue">
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/resources/templates/layout.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1452">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+        <state relative-caret-position="198">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/java/com/ln/config/model/FunA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
           <folding>
-            <element signature="n#style#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#el-aside#0;n#el-container#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#!!top" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/java/com/ln/config/model/CeshiLie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/java/com/ln/config/model/Mytag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quartz3003/src/main/java/com/ln/config/QuartzConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="97" column="9" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/finder/ckfinder/2.6.2.1/ckfinder-2.6.2.1.jar!/com/ckfinder/connector/configuration/IConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beetlweb/src/main/resources/templates/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.44783306" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
@@ -1266,12 +1514,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>serverCloudApi</last-edited>
+          <last-edited>beetlweb</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.44783306" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1291,7 +1538,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>servlet-api</last-edited>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
